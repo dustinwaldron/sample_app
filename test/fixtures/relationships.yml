@@ -1,0 +1,15 @@
+one:
+  follower: gandalf
+  followed: lana
+
+two:
+  follower: gandalf
+  followed: malory
+
+three:
+  follower: lana
+  followed: gandalf
+
+four:
+  follower: archer
+  followed: gandalf
